@@ -30,8 +30,8 @@ To run the notebooks, make sure you have the following Python libraries installe
 - matplotlib  
 - seaborn  
 - scikit-learn  
-- xgboost *(optional for Sprint 1b)*  
-- imblearn *(for SMOTE, optional)*  
+- xgboost 
+- imblearn
 - geopandas  
 - rasterio  
 - laspy  
