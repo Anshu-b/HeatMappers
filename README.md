@@ -63,7 +63,7 @@ Follow these steps to run the project successfully:
 
 1. **Clone the repository**  
    Open a terminal and run:  
-   `git clone https://github.com/<your-team-name>/heatmappers-forest-modeling.git`  
+   `https://github.com/Anshu-b/HeatMappers`  
 
 2. **Install dependencies**  
    ```
