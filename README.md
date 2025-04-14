@@ -140,10 +140,10 @@ Please see `HeatMappers_project_report.pdf` for:
 **Team Name**: HeatMappers  
 **Members**: 
 
-Ansh Bhatnagar
-Jiahe Qin
-Jeronimo Adames-Baena
-Ishayu Ghosh
+- Ansh Bhatnagar
+- Jiahe Qin
+- Jeronimo Adames-Baena
+- Ishayu Ghosh
 
 ---
 
