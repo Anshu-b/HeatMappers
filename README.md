@@ -48,5 +48,15 @@ skimage
 xgboost (optional for Sprint 1b)
 imblearn (for SMOTE in classification)
 
+---
+
+## ▶️ Running Instructions
+
+Follow these steps to run the project notebooks:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-team-name>/heatmappers-forest-modeling.git
+   cd heatmappers-forest-modeling
 
 
