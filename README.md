@@ -47,14 +47,6 @@ We recommend using a virtual environment. You can install everything with:
 pip install -r requirements.txt
 ```
 
-Or using Conda:
-
-```
-conda create -n forest-modeling python=3.11  
-conda activate forest-modeling  
-pip install -r requirements.txt
-```
-
 ---
 
 ## ▶️ Running Instructions
@@ -65,7 +57,7 @@ Follow these steps to run the project successfully:
    Open a terminal and run:  
    `https://github.com/Anshu-b/HeatMappers`  
 
-2. **Install dependencies**  
+2. **Install dependencies (different for each sprint)**  
    ```
    pip install -r requirements.txt
    ```
@@ -79,7 +71,6 @@ Follow these steps to run the project successfully:
 4. **Open and run the notebooks**  
    - Notebooks are organized by sprint (see below).  
    - Run all cells from top to bottom.  
-   - Ensure data files are placed in `data/` or `inputs/` folders as needed.  
    - Outputs include classification reports, graphs, CHMs, and CSV files.
 
 ---
@@ -91,18 +82,18 @@ Follow these steps to run the project successfully:
 
 `In order to run sprint 1a make sure unzip data.zip`
 
-- `sprint1_1-4_heatmappers.ipynb` – Tasks 1–4 results  
-- `sprint1_5-6_HeatMappers.ipynb` – ALS/TLS visualization + classification
+- `sprint1_1-4_heatmappers.ipynb` 
+- `sprint1_5-6_HeatMappers.ipynb` 
 
 ### Sprint 2
-- `sprint2_1-2_HeatMappers.ipynb` – CHM generation, ITD peak detection  
-- `sprint2_3-4_HeatMappers.ipynb` – FastFuels API modeling
+- `sprint2_1-2_HeatMappers.ipynb` 
+- `sprint2_3-4_HeatMappers.ipynb` 
 
 ### Sprint 3
 
 `In order to run sprint 3 make sure unzip data.zip`
 
-- `sprint3_HeatMappers.ipynb` – TLS and field DBH comparison + modeling
+- `sprint3_HeatMappers.ipynb`
 
 ### Sprint 4
 
