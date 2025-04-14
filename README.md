@@ -150,5 +150,5 @@ Please see `HeatMappers_project_report.pdf` for:
 ## 📬 Submission Notes
 
 - All notebooks for Sprints 1–4 are included in this repository.  
-- Final report is submitted as: `HeatMappers project report.pdf`  
+- Final report is submitted as: `HeatMappers_project_report.pdf`  
 - URL to this repository is included in the Sprint 4 text submission.
