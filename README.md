@@ -41,12 +41,6 @@ To run the notebooks, make sure you have the following Python libraries installe
 - pdal  
 - skimage  
 
-We recommend using a virtual environment. You can install everything with:
-
-```
-pip install -r requirements.txt
-```
-
 ---
 
 ## ▶️ Running Instructions
