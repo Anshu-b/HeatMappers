@@ -126,7 +126,7 @@ Follow these steps to run the project successfully:
 
 ## 📄 Final Report
 
-Please see `HeatMappers project report.pdf` for:
+Please see `HeatMappers_project_report.pdf` for:
 
 - Model comparison (Random Forest, Logistic Regression, AdaBoost)  
 - PFT, genus, and species prediction performance  
