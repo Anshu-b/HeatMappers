@@ -64,27 +64,19 @@ Follow these steps to run the project successfully:
 1. **Clone the repository**  
    Open a terminal and run:  
    `git clone https://github.com/<your-team-name>/heatmappers-forest-modeling.git`  
-   Then navigate into the folder:  
-   `cd heatmappers-forest-modeling`
 
-2. **(Optional) Create a virtual environment using Conda**  
-   ```
-   conda create -n forest-modeling python=3.11  
-   conda activate forest-modeling
-   ```
-
-3. **Install dependencies**  
+2. **Install dependencies**  
    ```
    pip install -r requirements.txt
    ```
 
-4. **Start Jupyter**  
+3. **Start Jupyter**  
    Run either:  
    `jupyter notebook`  
    or  
    `jupyter lab`
 
-5. **Open and run the notebooks**  
+4. **Open and run the notebooks**  
    - Notebooks are organized by sprint (see below).  
    - Run all cells from top to bottom.  
    - Ensure data files are placed in `data/` or `inputs/` folders as needed.  
