@@ -94,7 +94,11 @@ Follow these steps to run the project successfully:
 
 ## 🗂️ Notebooks by Sprint
 
+
 ### Sprint 1
+
+`In order to run sprint 1a make sure unzip data.zip`
+
 - `sprint1a_fia_database.ipynb` – Exploratory modeling using FIA data  
 - `sprint1a_field_data.ipynb` – Field survey data analysis  
 - `sprint1a_1-4_heatmappers.ipynb` – Tasks 1–4 results  
@@ -105,9 +109,15 @@ Follow these steps to run the project successfully:
 - `sprint2b_fastfuels_modeling.ipynb` – FastFuels API modeling
 
 ### Sprint 3
+
+`In order to run sprint 3 make sure unzip data.zip`
+
 - `sprint3_tls_vs_field_and_prediction.ipynb` – TLS and field DBH comparison + modeling
 
 ### Sprint 4
+
+`In order to run sprint 4 make sure unzip data.zip`
+
 - `sprint4-1-field_HeatMappers.ipynb` – PFT, genus, and species classification from field data  
 - `sprint4-2-tls-enhancement_HeatMappers.ipynb` – Predicting CBH and CR  
 - `sprint4-3-ff_HeatMappers.ipynb` – Classification using FastFuels + predicted features  
