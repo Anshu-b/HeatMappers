@@ -116,7 +116,7 @@ Please see `HeatMappers_project_report.pdf` for:
 - Model comparison (Random Forest, Logistic Regression, AdaBoost)  
 - PFT, genus, and species prediction performance  
 - Accuracy analysis of field-based vs. FastFuels-based models  
-- Discussion and recommendations
+- Discussion
 
 ---
 
